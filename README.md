@@ -1,3 +1,3 @@
-## Open Referral Azure
+## Open Referral AWS
 
-URL: http://open.referral.azure.adopta.agency
+URL: http://open.referral.aws.adopta.agency
